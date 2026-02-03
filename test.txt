@@ -1,2 +1,4 @@
 test document for EPAM course repo
 pull from repo
+
+for gitGUI
