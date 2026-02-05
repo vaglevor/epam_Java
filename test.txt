@@ -4,3 +4,5 @@ pull from repo
 for gitGUI
 
 some lines to commit and push
+
+and some lines to pull
