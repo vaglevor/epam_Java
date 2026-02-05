@@ -2,3 +2,5 @@ test document for EPAM course repo
 pull from repo
 
 for gitGUI
+
+some lines to commit and push
