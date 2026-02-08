@@ -6,3 +6,4 @@ for gitGUI
 some lines to commit and push
 
 and some lines to pull
+lines to the first commit on feature
